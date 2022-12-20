@@ -1,0 +1,38 @@
+<!--Glue Start-->
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif, arial !important;
+    /* line-height:normal !important; */
+    font-weight: 900 !important;
+    font-size: 3em !important;
+    line-height: 1.15em !important;
+    letter-spacing: -1px !important;
+    text-rendering: optimizeLegibility !important;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif, arial !important;
+    /* line-height:normal !important; */
+    font-weight: 900 !important;
+    font-size: 26px !important;
+    line-height: 1.15em !important;
+    text-rendering: optimizeLegibility !important;
+}
+
+.content h5 {
+    font-family: 'Montserrat', 'Open Sans', sans-serif, arial !important;
+    /* line-height:normal !important; */
+    text-rendering: optimizeLegibility !important;
+    font-size: 18px !important;
+}
+
+.navbar-header{
+    margin-top: 20px;
+}
+
